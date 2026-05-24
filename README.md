@@ -1,5 +1,3 @@
-Here is the full text of the README file for easy copy‑and‑paste:
-
 # AI‑Powered Financial Intelligence Dashboard with Forecasting & Risk Analytics
 
 ## Overview
@@ -22,7 +20,8 @@ The project is written in **Python** using **Pandas**, **NumPy**, **Matplotlib**
 ## Directory Structure
 
 
-Financial-Intelligence-Dashboard/
+Financial-Intelligence-
+Dashboard/
 │
 ├── data/ # Sample datasets and data‑source documentation
 │   ├── sample_sales_data.csv # Synthetic sales transactions for 2021–2022
